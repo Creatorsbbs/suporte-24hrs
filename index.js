@@ -188,8 +188,8 @@ Propostas de parceria, divulgação ou colaboração entre servidores.
 Explique sua situação com o máximo de detalhes possível para agilizar o atendimento.
 `)
         .setColor("#3aa3e7")
-        .setImage("https://cdn.discordapp.com/attachments/1264564541979627604/1504187640524701726/file_000000005270720e895d4916721bd3ce.png?ex=6a095f27&is=6a080da7&hm=39d656aa3f8eead63f35dfa32a8347ee4ea99f470020d5b5691ba3da9ae9507d&")
-        .setThumbnail("https://cdn.discordapp.com/attachments/1264564541979627604/1504187640524701726/file_000000005270720e895d4916721bd3ce.png?ex=6a095f27&is=6a080da7&hm=39d656aa3f8eead63f35dfa32a8347ee4ea99f470020d5b5691ba3da9ae9507d&");
+        .setImage("https://cdn.discordapp.com/attachments/1505169267891507320/1514375392855724052/file_00000000602471f5ada8509bca8dae69_1.png?ex=6a2b237d&is=6a29d1fd&hm=6faec7094082240c892278e240397d8f97db6a4f9a3778750aacbf442f848f1f&")
+        .setThumbnail("https://cdn.discordapp.com/attachments/1505169267891507320/1514375361343782972/file_000000001eec71f58a9566b19eed929a_1.png?ex=6a2b2375&is=6a29d1f5&hm=968b9dd5f5540dd178e519e403788f0b8310446b5b208b3c65e74c8563750c09&");
 
       const row = new ActionRowBuilder().addComponents(
 
@@ -343,8 +343,8 @@ Seu ticket foi criado com sucesso e nossa equipe já foi notificada.
 ✨ Equipe de Suporte
 `)
         .setColor("#3aa3e7")
-        .setImage("https://cdn.discordapp.com/attachments/1264564541979627604/1504187640524701726/file_000000005270720e895d4916721bd3ce.png?ex=6a095f27&is=6a080da7&hm=39d656aa3f8eead63f35dfa32a8347ee4ea99f470020d5b5691ba3da9ae9507d&")
-        .setThumbnail("https://cdn.discordapp.com/attachments/1264564541979627604/1504187640524701726/file_000000005270720e895d4916721bd3ce.png?ex=6a095f27&is=6a080da7&hm=39d656aa3f8eead63f35dfa32a8347ee4ea99f470020d5b5691ba3da9ae9507d&");
+        .setImage("https://cdn.discordapp.com/attachments/1505169267891507320/1514375392855724052/file_00000000602471f5ada8509bca8dae69_1.png?ex=6a2b237d&is=6a29d1fd&hm=6faec7094082240c892278e240397d8f97db6a4f9a3778750aacbf442f848f1f&")
+        .setThumbnail("https://cdn.discordapp.com/attachments/1505169267891507320/1514375361343782972/file_000000001eec71f58a9566b19eed929a_1.png?ex=6a2b2375&is=6a29d1f5&hm=968b9dd5f5540dd178e519e403788f0b8310446b5b208b3c65e74c8563750c09&");
 
       const row = new ActionRowBuilder().addComponents(
 
