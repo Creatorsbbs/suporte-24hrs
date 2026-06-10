@@ -166,24 +166,27 @@ client.on("interactionCreate", async (interaction) => {
       const embed = new EmbedBuilder()
         .setTitle("🎫 CENTRAL DE ATENDIMENTO")
         .setDescription(`
-Aqui você pode abrir um atendimento de forma rápida e organizada. Escolha a opção que melhor se encaixa na sua necessidade e nossa equipe irá te atender o mais rápido possível.
+░▒▓█ 𝟐𝟒𝐇𝐑𝐒 █▓▒░
 
-💬 Suporte
-Dúvidas, problemas ou ajuda geral com o servidor.
+「 protocolo de conexão iniciado 」
+「 acesso autorizado 」
+「 central sincronizada 」
 
-💰 Vendas
-Informações sobre compras, serviços e negociações.
+━━━━━━━━━━━━━━━━━━
 
-🚨 Denúncia
-Reporte comportamentos inadequados ou situações irregulares.
+⚡ Escolha seu caminho.
 
-🤝 Parceria
-Propostas de parceria, divulgação ou colaboração entre servidores.
+➜ Solicitar suporte
+➜ Contratar serviços
+➜ Tirar dúvidas
+➜ Entrar em contato com a equipe
 
-⚡ Nosso sistema é automático, então seu ticket será criado instantaneamente e encaminhado para a equipe responsável.
+━━━━━━━━━━━━━━━━━━
 
-📌 Importante:
-Explique sua situação com o máximo de detalhes possível para agilizar o atendimento.
+📡 Abra um ticket para prosseguir.
+
+『 24HRS COMMUNITY 』
+Conectando pessoas. Criando soluções.
 `)
         .setColor("#3aa3e7")
         .setImage("https://cdn.discordapp.com/attachments/1505169267891507320/1514375392855724052/file_00000000602471f5ada8509bca8dae69_1.png?ex=6a2b237d&is=6a29d1fd&hm=6faec7094082240c892278e240397d8f97db6a4f9a3778750aacbf442f848f1f&")
@@ -323,22 +326,27 @@ client.on("interactionCreate", async (interaction) => {
       const embed = new EmbedBuilder()
         .setTitle(`🎫 Ticket ${type}`)
         .setDescription(`
-Olá ${user}!
 
-Seu ticket foi criado com sucesso e nossa equipe já foi notificada.
+░▒▓█ 𝟐𝟒𝐇𝐑𝐒 █▓▒░
 
-📌 Informações importantes
+«conexão estabelecida...
+protocolo de atendimento iniciado...
+canal sincronizado...»
 
-• Descreva seu problema de forma clara e detalhada.
-• Caso necessário, envie prints, vídeos ou comprovantes.
-• Evite mencionar membros da equipe sem necessidade.
-• Mantenha o respeito durante todo o atendimento.
+━━━━━━━━━━━━━━━━━━
 
-⏳ Nossa equipe responderá assim que possível.
+👋 Olá! ${user}!
 
-🔒 Este canal é privado e visível apenas para você e a equipe responsável.
+Seu ticket foi aberto com sucesso.
 
-✨ Equipe de Suporte
+💬 Envie sua solicitação.
+📄 Explique o máximo de detalhes possível.
+⏳ Aguarde um membro da equipe.
+
+━━━━━━━━━━━━━━━━━━
+
+「 24HRS NETWORK 」
+Sempre em movimento.
 `)
         .setColor("#3aa3e7")
         .setImage("https://cdn.discordapp.com/attachments/1505169267891507320/1514375392855724052/file_00000000602471f5ada8509bca8dae69_1.png?ex=6a2b237d&is=6a29d1fd&hm=6faec7094082240c892278e240397d8f97db6a4f9a3778750aacbf442f848f1f&")
